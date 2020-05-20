@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (3.0.0)
+    rubyzip (2.3.0)
+    selenium-webdriver (4.0.0.alpha5)
+      childprocess (>= 0.5, < 4.0)
+      rubyzip (>= 1.2.2)
+      websocket (~> 1.0)
+    websocket (1.2.8)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  selenium-webdriver (~> 4.0.0.alpha5)
+
+BUNDLED WITH
+   2.1.4
